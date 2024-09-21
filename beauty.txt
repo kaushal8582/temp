@@ -1,0 +1,7 @@
+19 sep ka hisab  = 2000
+20 sep ka hisab =3000
+21 sep ka hisab  =4500
+22 sep ka hisab = 43908243
+hamlog nav ke under hai
+footer created
+
